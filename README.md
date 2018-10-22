@@ -18,7 +18,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 ### Developers: 
 * **Luís Eduardo Anunciado Silva ([cruxiu@ufrn.edu.br](mailto:cruxiu@ufrn.edu.br))** 
 ### Project Advisor: 
-* **Anna Giselle Camara Dantas Ribeiro Rodrigues ([anna.ribeiro@imd.ufrn.br](mailto:anna.ribeiro@imd.ufrn.br)** 
+* **Anna Giselle Camara Dantas Ribeiro Rodrigues ([anna.ribeiro@imd.ufrn.br](mailto:anna.ribeiro@imd.ufrn.br))** 
 
 See also the list of [contributors](https://github.com/cruxiu/IMD0404-Portifolio/contributors) who participated in this project.
 
