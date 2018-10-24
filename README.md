@@ -14,6 +14,14 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/cruxiu/IMD0404-Portifolio/issues) here on GitHub.
 
+## Reference
+
+* [Start Bootstrap - Scrolling Nav](https://github.com/BlackrockDigital/startbootstrap-scrolling-nav) under MIT License.
+* [Github icon](https://www.iconfinder.com/icons/1218140/github_icon) under Creative Commons (Attribution 3.0 Unported) License.
+* [Facebook icon](https://www.iconfinder.com/icons/194929/facebook_social_media_icon) under Creative Commons (Attribution 3.0 Unported) License.
+* [Linkedin icon](https://www.iconfinder.com/icons/194920/linkedin_social_media_icon) under Creative Commons (Attribution 3.0 Unported) License.
+* [Twitter icon](https://www.iconfinder.com/icons/194909/social_media_twitter_icon) under Creative Commons (Attribution 3.0 Unported) License.
+
 ## Authors
 ### Developers: 
 * **Luís Eduardo Anunciado Silva ([cruxiu@ufrn.edu.br](mailto:cruxiu@ufrn.edu.br))** 
